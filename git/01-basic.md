@@ -31,6 +31,8 @@
 2. Github를 이용한 포트폴리오
 - hub: 모여있는 곳
 
+  
+
 
 ## 기본 명령어
 
@@ -38,13 +40,34 @@
   * cd ../: 상위 폴더로 이동,  cd ./: 현재 폴더로 이동
 
 * `pwd(print working directory)`: 현재 작업 중인 경로 출력
+
 * `mkdir(make directory)`: 디렉토리(폴더) 생성
+
 * `touch`: 파일 생성
+
 * `rm(remove)`: 파일 삭제
   * rm -rf: 디렉토리 삭제
+  
 * `rmdir`: 빈 디렉토리 삭제
+
 * `ls(list segments)`: 디렉토리나 파일의 정보 출력
   * ls -a: 숨겨진 파일의 목록까지 출력
+  
+    
+
+## 저장소 초기화
+
+폴더=>리포
+
+```
+$ git init
+```
+
+리포=>폴더
+
+```
+$ rm -rf .git/ 
+```
 
 
 
