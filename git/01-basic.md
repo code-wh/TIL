@@ -17,12 +17,20 @@
 - UNIX: 또 2개로 나뉨 (무료와 유료)
 
   - Mac OS(유료), IOS 
-
   - 리눅스(무료, **Linus Torvalds**가 배포)
 
 
 
 # Git 사용법 및 터미널 명령어 정리
+
+## Git & Github 란? 
+1. Git을 이용한 버전 관리
+- Version Control System
+- 백업, 복구, 협업
+
+2. Github를 이용한 포트폴리오
+- hub: 모여있는 곳
+
 
 ## 기본 명령어
 
